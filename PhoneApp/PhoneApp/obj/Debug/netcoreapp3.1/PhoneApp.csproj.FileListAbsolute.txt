@@ -1,0 +1,13 @@
+D:\webDev\csharp\OOP_Basics\PhoneApp\PhoneApp\bin\Debug\netcoreapp3.1\PhoneApp.exe
+D:\webDev\csharp\OOP_Basics\PhoneApp\PhoneApp\bin\Debug\netcoreapp3.1\PhoneApp.deps.json
+D:\webDev\csharp\OOP_Basics\PhoneApp\PhoneApp\bin\Debug\netcoreapp3.1\PhoneApp.runtimeconfig.json
+D:\webDev\csharp\OOP_Basics\PhoneApp\PhoneApp\bin\Debug\netcoreapp3.1\PhoneApp.runtimeconfig.dev.json
+D:\webDev\csharp\OOP_Basics\PhoneApp\PhoneApp\bin\Debug\netcoreapp3.1\PhoneApp.dll
+D:\webDev\csharp\OOP_Basics\PhoneApp\PhoneApp\bin\Debug\netcoreapp3.1\PhoneApp.pdb
+D:\webDev\csharp\OOP_Basics\PhoneApp\PhoneApp\obj\Debug\netcoreapp3.1\PhoneApp.AssemblyInfoInputs.cache
+D:\webDev\csharp\OOP_Basics\PhoneApp\PhoneApp\obj\Debug\netcoreapp3.1\PhoneApp.AssemblyInfo.cs
+D:\webDev\csharp\OOP_Basics\PhoneApp\PhoneApp\obj\Debug\netcoreapp3.1\PhoneApp.csproj.CoreCompileInputs.cache
+D:\webDev\csharp\OOP_Basics\PhoneApp\PhoneApp\obj\Debug\netcoreapp3.1\PhoneApp.dll
+D:\webDev\csharp\OOP_Basics\PhoneApp\PhoneApp\obj\Debug\netcoreapp3.1\PhoneApp.pdb
+D:\webDev\csharp\OOP_Basics\PhoneApp\PhoneApp\obj\Debug\netcoreapp3.1\PhoneApp.genruntimeconfig.cache
+D:\webDev\csharp\OOP_Basics\PhoneApp\PhoneApp\obj\Debug\netcoreapp3.1\PhoneApp.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\webDev\csharp\OOP_Basics\Modifiers\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.exe
+D:\webDev\csharp\OOP_Basics\Modifiers\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.deps.json
+D:\webDev\csharp\OOP_Basics\Modifiers\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.runtimeconfig.json
+D:\webDev\csharp\OOP_Basics\Modifiers\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.runtimeconfig.dev.json
+D:\webDev\csharp\OOP_Basics\Modifiers\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.dll
+D:\webDev\csharp\OOP_Basics\Modifiers\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.pdb
+D:\webDev\csharp\OOP_Basics\Modifiers\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.AssemblyInfoInputs.cache
+D:\webDev\csharp\OOP_Basics\Modifiers\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.AssemblyInfo.cs
+D:\webDev\csharp\OOP_Basics\Modifiers\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.csproj.CoreCompileInputs.cache
+D:\webDev\csharp\OOP_Basics\Modifiers\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.dll
+D:\webDev\csharp\OOP_Basics\Modifiers\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.pdb
+D:\webDev\csharp\OOP_Basics\Modifiers\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.genruntimeconfig.cache

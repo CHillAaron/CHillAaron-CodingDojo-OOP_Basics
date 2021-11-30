@@ -1,0 +1,13 @@
+D:\webDev\csharp\OOP_Basics\OOPBasics\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.exe
+D:\webDev\csharp\OOP_Basics\OOPBasics\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.deps.json
+D:\webDev\csharp\OOP_Basics\OOPBasics\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.runtimeconfig.json
+D:\webDev\csharp\OOP_Basics\OOPBasics\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.runtimeconfig.dev.json
+D:\webDev\csharp\OOP_Basics\OOPBasics\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.dll
+D:\webDev\csharp\OOP_Basics\OOPBasics\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.pdb
+D:\webDev\csharp\OOP_Basics\OOPBasics\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.csprojAssemblyReference.cache
+D:\webDev\csharp\OOP_Basics\OOPBasics\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.AssemblyInfoInputs.cache
+D:\webDev\csharp\OOP_Basics\OOPBasics\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.AssemblyInfo.cs
+D:\webDev\csharp\OOP_Basics\OOPBasics\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.csproj.CoreCompileInputs.cache
+D:\webDev\csharp\OOP_Basics\OOPBasics\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.dll
+D:\webDev\csharp\OOP_Basics\OOPBasics\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.pdb
+D:\webDev\csharp\OOP_Basics\OOPBasics\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.genruntimeconfig.cache

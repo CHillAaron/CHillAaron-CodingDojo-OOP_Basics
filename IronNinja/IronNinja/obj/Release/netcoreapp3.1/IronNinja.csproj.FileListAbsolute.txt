@@ -1,0 +1,12 @@
+/Users/aaron/Downloads/csharp-master/OOP_Basics/IronNinja/IronNinja/bin/Release/netcoreapp3.1/IronNinja.deps.json
+/Users/aaron/Downloads/csharp-master/OOP_Basics/IronNinja/IronNinja/bin/Release/netcoreapp3.1/IronNinja.runtimeconfig.json
+/Users/aaron/Downloads/csharp-master/OOP_Basics/IronNinja/IronNinja/bin/Release/netcoreapp3.1/IronNinja.runtimeconfig.dev.json
+/Users/aaron/Downloads/csharp-master/OOP_Basics/IronNinja/IronNinja/bin/Release/netcoreapp3.1/IronNinja.dll
+/Users/aaron/Downloads/csharp-master/OOP_Basics/IronNinja/IronNinja/bin/Release/netcoreapp3.1/IronNinja.pdb
+/Users/aaron/Downloads/csharp-master/OOP_Basics/IronNinja/IronNinja/obj/Release/netcoreapp3.1/IronNinja.AssemblyInfoInputs.cache
+/Users/aaron/Downloads/csharp-master/OOP_Basics/IronNinja/IronNinja/obj/Release/netcoreapp3.1/IronNinja.AssemblyInfo.cs
+/Users/aaron/Downloads/csharp-master/OOP_Basics/IronNinja/IronNinja/obj/Release/netcoreapp3.1/IronNinja.csproj.CoreCompileInputs.cache
+/Users/aaron/Downloads/csharp-master/OOP_Basics/IronNinja/IronNinja/obj/Release/netcoreapp3.1/IronNinja.dll
+/Users/aaron/Downloads/csharp-master/OOP_Basics/IronNinja/IronNinja/obj/Release/netcoreapp3.1/IronNinja.pdb
+/Users/aaron/Downloads/csharp-master/OOP_Basics/IronNinja/IronNinja/obj/Release/netcoreapp3.1/IronNinja.genruntimeconfig.cache
+/Users/aaron/Downloads/csharp-master/OOP_Basics/IronNinja/IronNinja/obj/Release/netcoreapp3.1/IronNinja.csprojAssemblyReference.cache

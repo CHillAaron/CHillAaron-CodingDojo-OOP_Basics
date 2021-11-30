@@ -1,0 +1,13 @@
+D:\webDev\csharp\OOP_Basics\Human\Human\bin\Debug\netcoreapp3.1\Human.exe
+D:\webDev\csharp\OOP_Basics\Human\Human\bin\Debug\netcoreapp3.1\Human.deps.json
+D:\webDev\csharp\OOP_Basics\Human\Human\bin\Debug\netcoreapp3.1\Human.runtimeconfig.json
+D:\webDev\csharp\OOP_Basics\Human\Human\bin\Debug\netcoreapp3.1\Human.runtimeconfig.dev.json
+D:\webDev\csharp\OOP_Basics\Human\Human\bin\Debug\netcoreapp3.1\Human.dll
+D:\webDev\csharp\OOP_Basics\Human\Human\bin\Debug\netcoreapp3.1\Human.pdb
+D:\webDev\csharp\OOP_Basics\Human\Human\obj\Debug\netcoreapp3.1\Human.csprojAssemblyReference.cache
+D:\webDev\csharp\OOP_Basics\Human\Human\obj\Debug\netcoreapp3.1\Human.AssemblyInfoInputs.cache
+D:\webDev\csharp\OOP_Basics\Human\Human\obj\Debug\netcoreapp3.1\Human.AssemblyInfo.cs
+D:\webDev\csharp\OOP_Basics\Human\Human\obj\Debug\netcoreapp3.1\Human.csproj.CoreCompileInputs.cache
+D:\webDev\csharp\OOP_Basics\Human\Human\obj\Debug\netcoreapp3.1\Human.dll
+D:\webDev\csharp\OOP_Basics\Human\Human\obj\Debug\netcoreapp3.1\Human.pdb
+D:\webDev\csharp\OOP_Basics\Human\Human\obj\Debug\netcoreapp3.1\Human.genruntimeconfig.cache
